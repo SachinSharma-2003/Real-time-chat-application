@@ -1,1 +1,18 @@
-# Real-time-chat-application
+# REAL-TIME-CHAT-APPLICATION
+
+COMPANY: CODTECH IT SOLUTIONS
+
+NAME: SACHIN SHARMA A
+
+INTERN ID: CT08JSD
+
+DOMAIN: FRONT END DEVELOPMENT
+
+DURATION: 4 WEEEKS
+
+MENTOR: NEELA SANTOSH 
+
+
+ # Sample Output:
+
+![Image](https://github.com/user-attachments/assets/99e1c164-f3e0-4d93-b14e-bb89695933de)
