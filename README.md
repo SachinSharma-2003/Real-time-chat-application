@@ -15,4 +15,4 @@ MENTOR: NEELA SANTOSH
 
  # Sample Output:
 
-![Image](https://github.com/user-attachments/assets/99e1c164-f3e0-4d93-b14e-bb89695933de)
+![Image](https://github.com/user-attachments/assets/080d33d0-b321-4963-81d2-565f65b0b180)
